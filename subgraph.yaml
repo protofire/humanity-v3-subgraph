@@ -9,7 +9,7 @@ features:
 dataSources:
   - kind: ethereum/contract
     name: Factory
-    network: humanity
+    network: humanity-mainnet
     source:
       abi: Factory
       address: "0xd3f42c1debdcf75ab8204004b1cc9d7e7ebf17bd"
@@ -39,7 +39,7 @@ dataSources:
 templates:
   - kind: ethereum/contract
     name: Pool
-    network: humanity
+    network: humanity-mainnet
     source:
       abi: Pool
     mapping:

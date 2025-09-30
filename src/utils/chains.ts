@@ -52,7 +52,7 @@ const ABSTRACT_MAINNET = 'abstract'
 const ANIME_TESTNET = 'anime-testnet'
 const MODE = 'mode'
 const ANIME = 'anime'
-const HUMANITY = 'humanity'
+const HUMANITY = 'humanity-mainnet'
 
 // Note: All token and pool addresses should be lowercased!
 export class SubgraphConfig {
